@@ -1,7 +1,7 @@
 {
     "id": "menu",
     "type": "index",
-    "path": "/pages/",
+    "path": "/StudioSilence/pages/",
     "children" : [
         { "id":"menu-top", "type": "file", "path": "top.html", "title": "top"},
         { "id":"menu-profile", "type": "file", "path": "profile.html", "title": "profile"},

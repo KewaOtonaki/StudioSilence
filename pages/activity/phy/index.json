@@ -1,7 +1,7 @@
 {
     "id": "menu-activity-phy",
     "type": "index",
-    "path": "/pages/activity/phy/",
+    "path": "/StudioSilence/pages/activity/phy/",
     "children" : [
         { "id":"menu-activity-phylo-1", "type": "file", "path": "1.html", "title": "1"},
         { "id":"menu-activity-phylo-2", "type": "file", "path": "2.html", "title": "2"},

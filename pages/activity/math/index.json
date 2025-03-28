@@ -1,7 +1,7 @@
 {
     "id": "menu-activity-math",
     "type": "index",
-    "path": "/pages/activity/math/",
+    "path": "/StudioSilence/pages/activity/math/",
     "children" : [
         { "id":"menu-activity-math-1", "type": "file", "path": "1.html", "title": "はじめに"},
         { "id":"menu-activity-math-2", "type": "file", "path": "2.html", "title": "数と図形"},
