@@ -1,0 +1,10 @@
+{
+    "id": "menu-activity-myphy",
+    "type": "index",
+    "path": "/StudioSilence/pages/activity/myphy/",
+    "children" : [
+        { "id":"menu-activity-myphylo-1", "type": "file", "path": "1.html", "title": "闇とその周辺"},
+        { "id":"menu-activity-myphylo-2", "type": "file", "path": "2.html", "title": "闇について"},
+        { "id":"menu-activity-myphylo-3", "type": "file", "path": "3.html", "title": "めざすべき方向"}
+    ] 
+}
