@@ -4,3 +4,10 @@
     margin: 1%;
   }
   
+  .menu-title {
+    background : #995555;
+    color: white;
+    font-weight : bold;
+    height: 3em;
+  }
+  
