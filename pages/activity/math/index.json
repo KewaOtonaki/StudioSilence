@@ -8,6 +8,7 @@
         { "id":"menu-activity-math-3", "type": "file", "path": "3.html", "title": "数と文字"},
         { "id":"menu-activity-math-4", "type": "file", "path": "4.html", "title": "抽象代数学"},
         { "id":"menu-activity-math-5", "type": "file", "path": "5.html", "title": "ガロア理論"},
-        { "id":"menu-activity-math-xx1", "type": "file", "path": "xx1.html", "title": "数学の基礎"}
+        { "id":"menu-activity-math-xx1", "type": "file", "path": "xx1.html", "title": "数学の基礎"},
+        { "id":"menu-activity-math-xx2", "type": "file", "path": "xx2.html", "title": "数学の哲学"}
     ] 
 }
