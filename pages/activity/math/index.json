@@ -6,6 +6,7 @@
         { "id":"menu-activity-math-1", "type": "file", "path": "1.html", "title": "はじめに"},
         { "id":"menu-activity-math-2", "type": "file", "path": "2.html", "title": "数学の三本柱"},
         { "id":"menu-activity-math-3", "type": "file", "path": "3.html", "title": "数と文字"},
-        { "id":"menu-activity-math-4", "type": "file", "path": "4.html", "title": "抽象代数学"}
+        { "id":"menu-activity-math-4", "type": "file", "path": "4.html", "title": "抽象代数学"},
+        { "id":"menu-activity-math-5", "type": "file", "path": "5.html", "title": "ガロア理論"}
     ] 
 }
