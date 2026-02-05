@@ -1,22 +1,54 @@
 <HTML>
     <HEAD>
         <TITLE>スタジオサイレンス</TITLE>
+        <style>
+            body {
+                 background-image: url("ieben-４分休符-1050px.png");
+                 background-size: contain; /* Ensures the image covers the entire element */
+                 background-position: center; /* Centers the image */
+                 background-repeat: no-repeat; /* Prevents repetition */
+                 z-index : -1;
+                }
+
+            .cover {
+                background-color: white;
+                width : 100vw;
+                height: 100vh;
+                position:absolute;
+                top: 0;
+                left: 0;
+                opacity: 0.8;
+                z-index: 0;
+            }
+
+        .contents{
+            position: absolute;
+            top: 25%;
+            left: 50%;
+            transform: translateY(-50%);
+            transform: translateX(-50%);
+            z-index: 1;
+        }
+        </style>
     </HEAD>
     <BODY>
-        <h1>スタジオサイレンス</h1>
-        <h2>音無 恠環のページです</h2>
+       <div class="cover"> </div>
 
-        <h3> MathTool(開発中) </h3>
-        <h3> アンダンテで数学を(執筆中) </h3>
+       <div class="contents">
+            <h1>スタジオサイレンス</h1>
+            <h2>音無 恠環のページです</h2>
 
-        <h3>リンク</h3>
-        <ul>
-            <li><a href="https://x.com/ok_initial">X</a></li>
-            <li><a href="https://discord.gg/WVx9vThd8J">Discord</a></li>
-            <li><a href="https://note.com/ok_initial">note</a></li>
-            <li><a href="https://qiita.com/KewaOtonaki">qiita</a></li>
-        </ul>
+            <h3> MathTool(開発中) </h3>
+            <h3> アンダンテで数学を(執筆中) </h3>
+            <h3>リンク</h3>
+            <ul>
+                <li><a href="https://x.com/ok_initial">X</a></li>
+                <li><a href="https://discord.gg/WVx9vThd8J">Discord</a></li>
+                <li><a href="https://note.com/ok_initial">note</a></li>
+                <li><a href="https://qiita.com/KewaOtonaki">qiita</a></li>
+            </ul>
 
-        <fotter> 2026.1.20- ©Kewa Otonaki</fotter>
+            <fotter> 2026.1.20- ©Kewa Otonaki</fotter>
+        </div>
     </BODY>
 </HTML>
